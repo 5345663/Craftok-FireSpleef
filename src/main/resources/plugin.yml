@@ -1,0 +1,10 @@
+name: Craftok-FireSpleef
+author: Sithey
+version: 1.0
+main: eu.craftok.firespleef.FMain
+depend:
+  - Craftok-Core
+  - Craftok-CoinsBooster
+commands:
+  start:
+  stats:
